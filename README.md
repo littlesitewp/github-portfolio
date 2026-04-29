@@ -1,4 +1,4 @@
-# 👨‍💻 QA Engineer Portfolio
+# 👨‍💻 Моё портфолио QA Junior
 
 ![Header](header.jpg)
 
