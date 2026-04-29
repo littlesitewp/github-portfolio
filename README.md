@@ -1,150 +1,57 @@
-# Привет! 👋 Я [Ваше Имя]
-
-Я начинающий [Например: Backend/Frontend/Data] разработчик. Активно изучаю технологии и пишу код.
-
 # 👨‍💻 QA Engineer Portfolio
 
 ![Header](header.jpg)
-![Header](header.png)
 
-Привет! Меня зовут John, я начинающий QA-инженер.
-Я прошёл курс «Тестирование ПО с нуля. Теория + практика» на Stepik и применил знания на практике.
+Привет! Меня зовут Петр. Я начинающий тестировщик ПО.
 
 ---
 
-## 🧠 Навыки
+# Навыки:
 
-* Тестирование:
-
+## 🛠️ Тестирование
   * Функциональное тестирование
   * Регрессионное тестирование
   * Smoke / Sanity тесты
-* Документация:
-
+  
+## 📁 Документация
   * Тест-кейсы
   * Чек-листы
   * Баг-репорты
-* API:
-
+  
+## 🔌 API
   * Postman
   * Работа с GET / POST запросами
-* Инструменты:
 
-  * Git / GitHub
-  * DevTools (Network, Application)
-  * Fiddler
-* Основы:
-
+## 📖 Основы
   * HTTP / HTTPS
   * Клиент-серверная архитектура
   * SQL (JOIN, SELECT)
 
 ---
 
-## 📂 Проекты
-
-### 1. 🧪 Тестирование веб-приложения
-
-**Что сделано:**
-
-* Написаны тест-кейсы
-* Составлены чек-листы
-* Проведено функциональное тестирование
-
-📁 Содержимое:
-
-* /test-cases
-* /checklists
-* /bug-reports
-
----
-
-### 2. 🔌 API тестирование (Postman)
-
-**Что сделано:**
-
-* Тестирование REST API
-* Проверка GET / POST запросов
-* Использование переменных
-
-📁 Содержимое:
-
-* Коллекция Postman
-* JSON с тестами
-
----
-
-### 3. 🐞 Баг-репорты
-
-**Что сделано:**
-
-* Найдены дефекты
-* Описаны по шаблону (Steps, Expected, Actual)
-
-📁 Содержимое:
-
-* bug-report.md
-
----
-
-### 4. 🗄️ SQL практика
-
-**Что сделано:**
-
-* JOIN-запросы
-* SELECT / WHERE / GROUP BY
-
-📁 Содержимое:
-
-* sql-queries.sql
-
----
-
-## 🛠️ Примеры
-
-### Пример баг-репорта
-
-```
-Заголовок: Кнопка "Оплатить" не работает
-
-Шаги:
-1. Открыть страницу оплаты
-2. Нажать "Оплатить"
-
-Ожидаемый результат:
-Переход на страницу оплаты
-
-Фактический результат:
-Ничего не происходит
-```
+## 🧰 Инструменты и технологии:
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## 🎓 Обучение
 
-* Курс: "Тестирование ПО с нуля. Теория + практика"
-* Платформа: Stepik
+[Тестирование ПО с нуля. Теория + практика](https://github.com/littlesitewp/stepik-course.git)
 
 ---
 
 ## 📬 Контакты
 
-* Email: [your_email@example.com](mailto:your_email@example.com)
-* Telegram: @your_username
-* GitHub: https://github.com/your_username
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piotrhrytskevich@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/littlesitewp)
 
 
-### 🚀 Мои навыки:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-*(Добавьте сюда бейджи технологий из пройденного курса. Взять их можно на сайте [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges))*
-
-### 📚 Обучение:
-Только что успешно завершил глубокий курс [Название курса со Stepik] (ссылка на ваш репозиторий `stepik-course`). 
-
-### 🌱 Сейчас я изучаю:
-- [Напишите технологию, которую учите сейчас, например: Фреймворк Django или Docker]
-
-### 📫 Как со мной связаться:
-- Telegram: [@ваш_ник]
-- Почта: [ваша@почта.com]
