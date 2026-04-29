@@ -6,8 +6,6 @@
 
 # Навыки:
 
----
-
 ## 🛠️ Тестирование
   * Функциональное тестирование
   * Регрессионное тестирование
@@ -29,8 +27,6 @@
 
 ## 🧰 Инструменты и технологии:
 
----
-
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -44,15 +40,9 @@
 
 ## 🎓 Обучение
 
----
-
 [Тестирование ПО с нуля. Теория + практика](https://github.com/littlesitewp/stepik-course.git)
 
 ## 📬 Контакты
 
----
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piotrhrytskevich@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/littlesitewp)
-
-
