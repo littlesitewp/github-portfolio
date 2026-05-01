@@ -1,6 +1,6 @@
 # 👨‍💻 Моё портфолио QA Junior
 
-![Header](header_r.jpg)
+![Header](header.jpg)
 
 Привет! Меня зовут Петр. Я начинающий тестировщик ПО.
 
