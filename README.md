@@ -38,11 +38,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🎓 Обучение
+### 🎓 Обучение
 
 [Тестирование ПО с нуля. Теория + практика](https://github.com/littlesitewp/stepik-course.git)
 
-## 📬 Контакты
+### 📬 Контакты
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piotrhrytskevich@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/littlesitewp)
