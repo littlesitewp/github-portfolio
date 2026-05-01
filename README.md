@@ -40,9 +40,17 @@
 
 ### 🎓 Обучение
 
-[Тестирование ПО с нуля. Теория + практика](https://github.com/littlesitewp/stepik-course.git)
+[Тестирование ПО с нуля. Теория + практика](https://stepik.org/course/171826)
+
+<!-- 
+На будущее, для репозитория на курс Stepik.
+(https://github.com/littlesitewp/stepik-course.git)
+-->
 
 ### 📬 Контакты
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piotrhrytskevich@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/littlesitewp)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
