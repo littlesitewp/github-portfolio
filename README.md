@@ -11,6 +11,8 @@
   * Регрессионное тестирование
   * Smoke / Sanity тесты
   
+    **Пример:** [Шапка weblodj.ru](https://docs.google.com/spreadsheets/d/1q1fo2-b11YGXQGQPxaLqzBQNQUlRe_X02wpzgXWnTrI/edit?usp=sharing)
+  
 ### 📁 Документация
   * Тест-кейсы
   * Чек-листы
